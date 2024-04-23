@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ijepa-try"
+  site-url: "https://HasanGoni.github.io/ijepa-try"
+  description: "ijepa model will be tried to create"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/ijepa-try"
